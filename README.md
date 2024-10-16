@@ -1,0 +1,1 @@
+This repository contains the implementation of various control strategies for stabilizing an inverted pendulum system. The inverted pendulum is a classic problem in control theory and robotics, often used to demonstrate the challenges of controlling inherently unstable systems.
